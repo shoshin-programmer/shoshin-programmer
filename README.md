@@ -3,6 +3,7 @@
 ## I'm a Fullstack Web Developer
 
 - ⚡ I love creating stuff.
+- Most of my projects are owned by their respective companies, now I am spending some time to create personal projects that the public can use.
 
 ### Connect with me:
 
