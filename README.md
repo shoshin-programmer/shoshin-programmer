@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Web Developer
 
-- ⚡ I love creating stuff.
+- I make it a goal to make an engaging, performant and delightful experience for my web-based products.
 - Most of my projects are owned by their respective companies, now I am spending some time to create personal projects that the public can use.
 
 ### Connect with me:
